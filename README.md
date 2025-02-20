@@ -1,16 +1,16 @@
-## Hi there 👋
+#Hi I'm AmirmohammadPourramezan!
 
-<!--
-**Emadp79/Emadp79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About :
+I am a software developer with 5 years of experience in programming and networking. I love solving technical problems and creating practical software, and I am always looking for learning new and updated technologies
 
-Here are some ideas to get you started:
+##Skills :
+*Programming languages: 
+*Framework: 
+*Database:
+*Tools: Git.Doker.VS code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Projects :
+
+
+##Contact :
+For more information and cooperation, you can contact me via email (amiremadp11@gmail.com) or LinkedIn (https://www.linkedin.com/in/emad-pourramezan-58101b19a/)
